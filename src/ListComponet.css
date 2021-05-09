@@ -1,0 +1,12 @@
+.CardCss {
+  display: inline­-block;
+  background: #95a8db;
+  width: 350px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.removeButtonCss {
+  float: right;
+  padding: 10px;
+}
